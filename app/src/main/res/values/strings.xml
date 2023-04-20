@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AylesburyTourGuide</string>
+
+
+    // pubs
+    <string name="whiteHeart">White Heart</string>
+    <string name="whiteHeartDesc">Family-friendly pub with a nostalgic interior and outdoor seating serving familiar comfort classics.</string>
+
+    <string name="fiveBells">Five Bells</string>
+    <string name="fiveBellsDesc">Traditional 19th-century lodging with modern rooms, pub grub and real ales, plus free Wi-Fi.</string>
+
+    <string name="TheBell">The Bell</string>
+    <string name="TheBellDesc">Country pub conviviality and modern British cooking amongst wood panelling and rustic furniture.</string>
+
+    <string name="RisingSun">The Rising Sun</string>
+    <string name="TheRisingSunDesc">It\'s a traditional 15th Century, Grade II Listed thatched pub in Ickford Village</string>
+
+    <string name="OldMillwrightArms">The Old Millwright Arms</string>
+    <string name="OldMillDesc">The Old Millwrights Arms is a fantastic local pub serving a great selection of real ales, craft beers and Barrel &amp; Stone stone baked pizzas and Piadinas. Great quality, well kept beer and amazing pizza the perfect combination!</string>
+
+    <string name="KingsHead">The King\'s Head</string>
+    <string name="KingsHeadDesc">Restored 15th-century coaching inn owned by the National Trust, with cobbled courtyard and bar.</string>
+
+    <string name="horseAndJockey">Horse and Jockey</string>
+    <string name="horseAndJockeyDesc">A comfortable local with real ale &amp; traditional pub-food. You\'ll feel right at home at Horse and Jockey, roaring log fire &amp; award-winning cask ales on tap.</string>
+
+
+    <string name="historyTopic">History</string>
+    <string name="kidsTopic">Kids</string>
+    <string name="nature">Nature</string>
+    <string name="pubTopic">Pubs</string>
+
+    <string name = "appBarTitle">Guide to Aylesbury</string>
+
+    <string name="arrowDesc">Button to return to previous topic</string>
+    <string name="topicForwardButton">Button to move to the next topic</string>
+</resources>
